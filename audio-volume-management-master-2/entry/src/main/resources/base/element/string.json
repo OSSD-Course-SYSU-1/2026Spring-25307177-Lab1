@@ -1,0 +1,144 @@
+﻿{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Audio stream volume management"
+    },
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "audio_stream_volume",
+      "value": "Audio stream volume"
+    },
+    {
+      "name": "application_volume",
+      "value": "Application volume"
+    },
+    {
+      "name": "introduction",
+      "value": "This Sample implements the volume management function, including:"
+    },
+    {
+      "name": "introduction_1",
+      "value": "1.Custom system volume panel."
+    },
+    {
+      "name": "introduction_2",
+      "value": "2.Adjust the system volume by using up and down swipe gestures."
+    },
+    {
+      "name": "introduction_3",
+      "value": "3.Adjust the application volume by sliding the slider."
+    },
+    {
+      "name": "introduction_4",
+      "value": "4.Adjust the volume of the audio stream by sliding the slider."
+    },
+    {
+      "name": "introduction_5",
+      "value": "5.Disable the volume button through the switch."
+    },
+    {
+      "name": "playback_page",
+      "value": "Enter the playback page"
+    },
+    {
+      "name": "audio_volume_control",
+      "value": "Audio volume control"
+    },
+    {
+      "name": "volume_key_up",
+      "value": "Clicked the up volume button"
+    },
+    {
+      "name": "volume_key_down",
+      "value": "Clicked the down volume button"
+    },
+    {
+      "name": "setting",
+      "value": "Volume setting"
+    },
+    {
+      "name": "disable",
+      "value": "Disable the volume button"
+    },
+    {
+      "name": "explanation",
+      "value": "Explanation"
+    },
+    {
+      "name": "ui_presentation",
+      "value": "Only for UI display"
+    },
+    {
+      "name": "volume_preset",
+      "value": "音量预设"
+    },
+    {
+      "name": "save_preset",
+      "value": "保存预设"
+    },
+    {
+      "name": "apply_preset",
+      "value": "应用"
+    },
+    {
+      "name": "delete_preset",
+      "value": "删除"
+    },
+    {
+      "name": "preset_name_hint",
+      "value": "请输入预设名称"
+    },
+    {
+      "name": "preset_empty",
+      "value": "暂无预设，点击保存按钮创建"
+    },
+    {
+      "name": "preset_save_success",
+      "value": "预设保存成功"
+    },
+    {
+      "name": "preset_apply_success",
+      "value": "预设已应用"
+    },
+    {
+      "name": "preset_delete_success",
+      "value": "预设已删除"
+    },
+    {
+      "name": "preset_name_empty",
+      "value": "预设名称不能为空"
+    },
+    {
+      "name": "preset_name_duplicate",
+      "value": "该名称已存在，是否覆盖？"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "overwrite",
+      "value": "覆盖"
+    },
+    {
+      "name": "distributed_datasync_reason",
+      "value": "Used for syncing volume presets across devices logged in with the same Huawei account"
+    }
+  ]
+}
